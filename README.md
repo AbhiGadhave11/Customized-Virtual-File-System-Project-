@@ -3,6 +3,6 @@
 
 • It provides necessary commands, system calls implementations of file system through customised shell. 
 
-• In this project we implement all necessary data structures. 
+• In this project I implement all necessary data structures. 
 
   Technology : C++ Programming . We can Create this project in C programming language also.
